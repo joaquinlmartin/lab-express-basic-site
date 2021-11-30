@@ -1,0 +1,21 @@
+
+body {
+    color: white;
+    background-image: url(/img/download.jpeg);
+    background-repeat: no-repeat;
+    text-decoration: non;
+}
+
+div {
+    background-color: black;
+}
+
+a {
+    outline: none;
+    text-decoration: none;
+    color: white;
+}
+
+.img {
+    height: 532px;
+}
